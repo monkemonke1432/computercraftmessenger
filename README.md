@@ -1,6 +1,6 @@
 # computercraftmessenger
 Messaging software for CC: Tweaked.
-(THIS IS ABANDONED! GO TO https://github.com/monkemonke1432/ccm_client INSTEAD! IT ACTUALLY WORKS!!!)
+(THIS IS ABANDONED! GO TO https://github.com/monkemonke1432/ccm_server-client INSTEAD! IT ACTUALLY WORKS!!!)
 
 
 
